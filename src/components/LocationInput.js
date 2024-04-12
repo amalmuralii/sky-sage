@@ -1,0 +1,1 @@
+// A component for users to input their location or search for a specific location to get weather forecasts.
